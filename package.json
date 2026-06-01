@@ -1,0 +1,21 @@
+{
+  "name": "gaby-fishing",
+  "version": "1.0.0",
+  "description": "Gaby Fishing Discord Bot - A fun fishing game bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "author": "Gaby Fishing",
+  "license": "MIT"
+}

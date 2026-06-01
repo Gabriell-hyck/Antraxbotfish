@@ -1,0 +1,21 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "prefix": "&",
+  "botName": "\u2206NTRAX",
+  "botTag": "\u2206NTRAX Fishing",
+  "embedColor": "#00c9ff",
+  "embedColorDark": "#0a0a1a",
+  "fishCooldown": 5000,
+  "dailyCooldown": 86400000,
+  "questResetInterval": 86400000,
+  "levelUpXpBase": 100,
+  "levelUpXpMultiplier": 1.5,
+  "eventChannelId": "GANTI_DENGAN_ID_CHANNEL_EVENT",
+  "announcementChannelId": "GANTI_DENGAN_ID_CHANNEL_ANNOUNCEMENT",
+
+  "adminUsers": [
+    "USERNAME_DISCORD_ADMIN_1",
+    "USERNAME_DISCORD_ADMIN_2"
+  ],
+  "ownerId": "USERNAME_DISCORD_OWNER"
+}

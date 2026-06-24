@@ -1,4 +1,4 @@
-# 🎣 Gaby Fishing Bot
+# Fishing Bot
 
 Discord bot game memancing menggunakan Node.js dan discord.js v14.
 
@@ -63,3 +63,5 @@ gaby-fishing/
 4. Klik "Reset Token" dan copy token
 5. Aktifkan **Message Content Intent** di bagian Privileged Gateway Intents
 6. Invite bot ke server dengan permission: Send Messages, Embed Links, Read Message History
+
+kapan kapan ajablah update 
